@@ -1,0 +1,7 @@
+*secrets.tfvars
+*.pem
+*tfstate*
+*.terraform
+*.terraform.lock*
+*delete*
+*.DS_*
